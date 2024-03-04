@@ -1,0 +1,128 @@
+/*basic declaration*/
+
+h1{
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 3rem;
+  margin-left:12px ;
+}
+body{
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color:#F6F5F5;
+}
+h3{
+  font-weight: bold;
+  text-align: center;
+}
+p{
+  text-align: center;
+  font-family: "Ubuntu";
+  font-size: 1.2rem;
+  color:#07094d;
+}
+
+/*Nav Bar*/
+
+#title{
+  background-color: #FFE6E6;
+}
+.Container-fluid{
+  padding: 0% 5% 1%;
+}
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
+  color: red;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.nav-link{
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: black;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/*Title*/
+
+.Container{
+  padding:3% 5%;
+}
+.tittle-image{
+  margin-left: -30%;
+  margin-bottom: -10%;
+  width: 130%;
+  height: 110%;
+}
+
+/*Features*/
+
+#features{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.icon{
+  color: #265073;
+}
+.icon:hover{
+  color: #FF9843;
+}
+
+/*Testimonials*/
+
+#testimonials{
+  background-color: #E1AFD1;
+  text-align: center;
+  color: #6420AA;
+}
+.test{
+  border-radius: 100%;
+  text-align: center;
+  width: 20%;
+}
+#press{
+  background-color: #E1AFD1;
+  text-align: center;
+}
+.icon{
+  text-align: center;
+  color:rgb(49, 2, 2);
+}
+
+
+.press-logo{
+  width:15%;
+  margin: 20px 20px 20px 20px;
+}
+
+
+#pricing{
+  text-align: center;
+}
+.col{
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+#cta{
+  text-align: center;
+  background-color: #AD88C6;
+}
+
+#footer{
+  text-align: center;
+  background-color: #AD88C6;
+}
