@@ -86,6 +86,9 @@ p{
   text-align: center;
   color: #6420AA;
 }
+.py-5{
+  background-color: #E1AFD1;
+}
 .test{
   border-radius: 100%;
   text-align: center;
@@ -119,10 +122,10 @@ p{
 
 #cta{
   text-align: center;
-  background-color: #AD88C6;
+  background-color: #E1AFD1;
 }
 
 #footer{
   text-align: center;
-  background-color: #AD88C6;
+  background-color: #E1AFD1;
 }
